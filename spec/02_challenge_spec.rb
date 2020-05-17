@@ -10,4 +10,3 @@ describe "#second_challenge" do
 
   end
 end
-end
